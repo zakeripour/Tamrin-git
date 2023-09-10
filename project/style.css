@@ -8,6 +8,10 @@ html*::after {
     box-sizing: inherit;
 }
 
+body {
+    background-color: aquamarine;
+}
 nav {
     padding: 1em;
 }
+
