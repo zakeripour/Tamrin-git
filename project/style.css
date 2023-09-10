@@ -8,3 +8,12 @@ html*::after {
     box-sizing: inherit;
 }
 
+body{
+    font-family: tahoma;
+    background-color: bisque;
+    line-height: 1.6;
+}
+
+div {
+    display: flex;
+}
